@@ -15,6 +15,6 @@ Clone this repository to your local machine using the following command:
 
 3. Run the App
 
-            streamlit run app.py
+            streamlit run Sentiment-Analysis.py
 
 
