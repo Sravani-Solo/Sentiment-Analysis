@@ -23,10 +23,6 @@ with open('key.txt') as f:
     assert api_key.startswith("sk-"), 'Error loading the API key. The key must start with sk-'
 
 openai.api_key = api_key
-# emotions = 'positive, negative, neutral'
-# text = 'AI will NOT take over the World!'
-# result = gpt_classify_sentiment(text, emotions)
-# print(result)
 
 if __name__ == '__main__':
     with open('key.txt') as f:
