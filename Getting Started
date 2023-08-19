@@ -1,0 +1,20 @@
+
+# Getting Started with Streamlit
+
+Follow these steps to set up and run the ToneTrace sentiment analysis tool on your local machine:
+
+1. Clone the Repository
+
+Clone this repository to your local machine using the following command:
+
+          git clone https://github.com/your-username/Sentiment-Analysis.git
+
+2. Install Dependencies
+
+            pip install streamlit
+
+3. Run the App
+
+            streamlit run app.py
+
+
