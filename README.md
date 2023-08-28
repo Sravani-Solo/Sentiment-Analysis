@@ -55,7 +55,7 @@ Put theory into practice with hands-on examples, featuring renowned Python libra
 
 This repository thrives on collaboration. Your insights, projects, and tools are invaluable. Unearth groundbreaking sentiment analysis discoveries and let the collective knowledge flourish.
 
-## Connect with Us
+## Connect with me
 
-Your questions, feedback, and collaboration inquiries are not just welcome – they're essential. Reach out and become a part of this evolving repository. Thank you for embarking on this journey with us!
+Your questions, feedback, and collaboration inquiries are not just welcome – they're essential. Reach out and become a part of this evolving repository. Thank you for embarking on this journey with me!
 
